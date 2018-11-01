@@ -29,7 +29,7 @@
     "eslint-plugin-spellcheck": "0.0.7",
     "less": "2.7.1",
     "less-loader": "2.2.3",
-    "moment": "2.13.0",
+    "moment": "2.19.3",
     "raw-loader": "0.5.1",
     "react-day-picker": "2.3.3",
     "react-tooltip": "2.0.2",
